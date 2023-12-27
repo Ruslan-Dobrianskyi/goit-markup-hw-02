@@ -47,9 +47,11 @@ body {
   color: #404bbf;
 }
 /* Main-title section */
+.main-section {
+  background-color: #2e2f42;
+}
 .main-title {
   color: #fff;
-  background-color: #2e2f42;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -91,7 +93,9 @@ body {
 }
 
 /* Our team section */
-
+.team-section {
+  background-color: #f4f4fd;
+}
 .team-title {
   color: #2e2f42;
   background-color: #f4f4fd;
