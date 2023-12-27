@@ -5,6 +5,7 @@ body {
 }
 
 /* logo */
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -19,6 +20,7 @@ body {
 }
 
 /* nav-section */
+
 .nav-links .link {
   font-weight: 500;
   font-size: 16px;
@@ -48,6 +50,7 @@ body {
 }
 
 /* Main-title section */
+
 .main-section {
   background-color: #2e2f42;
 }
@@ -95,8 +98,12 @@ body {
 }
 
 /* Our team section */
+
 .team-section {
   background-color: #f4f4fd;
+}
+.team-list {
+  background-color: #ffffff;
 }
 .team-title {
   color: #2e2f42;
@@ -127,6 +134,7 @@ body {
 }
 
 /* Our portfolio section */
+
 .portfolio-title {
   color: #2e2f42;
   text-align: center;
@@ -154,6 +162,7 @@ body {
 }
 
 /* Footer */
+
 .footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
