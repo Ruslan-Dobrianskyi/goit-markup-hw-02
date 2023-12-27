@@ -35,17 +35,27 @@ body {
   color: #404bbf;
 }
 .address-links {
+  font-style: normal;
+}
+.add-link {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
-  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address-links .add-link:hover {
+.add-link {
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.add-link:hover {
   color: #404bbf;
 }
-.address-links .add-link:focus {
+.add-link:focus {
   color: #404bbf;
 }
 
